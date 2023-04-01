@@ -83,8 +83,24 @@ print('Values of MSE')
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+1.df.head()
+![df head()](https://user-images.githubusercontent.com/128135126/229293430-2220ce8f-b45d-4d14-9991-e560d056d061.png)
+2.df.tail()
+![df tail()](https://user-images.githubusercontent.com/128135126/229293452-c8c2e71b-d512-4cfb-9fef-3435a7b760d4.png)
+3.Array value of X
+![Array value of X](https://user-images.githubusercontent.com/128135126/229293469-8f08eb90-7774-46aa-b0db-0ac8df78dad3.png)
+4.Array value of Y
+![Array value of Y](https://user-images.githubusercontent.com/128135126/229293494-aa427d62-0d42-4747-9b9d-474c5f58fb29.png)
+5.Values of Y prediction
+![Values of Y prediction](https://user-images.githubusercontent.com/128135126/229293514-ef09d849-1b86-4783-b366-9552fbafecca.png)
+6.Array values of Y test
+![Array values of Y test](https://user-images.githubusercontent.com/128135126/229293545-32b41b3c-8494-4138-8f49-6161ed6af60b.png)
+7.Training set graph
+![Training set graph](https://user-images.githubusercontent.com/128135126/229293565-fbd372b3-aac6-4ed6-be0b-87905f046ebb.png)
+8.Test set graph
+![Test set graph](https://user-images.githubusercontent.com/128135126/229293588-9a4d9a34-3f38-4e5f-bd77-3e3f79bb2cf0.png)
+9.Values of MSE,MAE and RMSE
+![Values of MSE,MAE and RMSE](https://user-images.githubusercontent.com/128135126/229293605-f9e791d8-b7c0-45c1-ac1b-2901364e8b26.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
