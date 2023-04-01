@@ -84,9 +84,13 @@ print('Values of MSE')
 
 ## Output:
 1.df.head()
-![df head()](https://user-images.githubusercontent.com/128135126/229293430-2220ce8f-b45d-4d14-9991-e560d056d061.png)
+
+![df head()](https://user-images.githubusercontent.com/128135126/229293862-34870b9a-d46d-41cb-9ea0-13cea22f00ae.png)
+
 2.df.tail()
-![df tail()](https://user-images.githubusercontent.com/128135126/229293452-c8c2e71b-d512-4cfb-9fef-3435a7b760d4.png)
+
+![df tail()](https://user-images.githubusercontent.com/128135126/229293881-7cb876c6-7074-4bb1-874f-7c9463005dcc.png)
+
 3.Array value of X
 ![Array value of X](https://user-images.githubusercontent.com/128135126/229293469-8f08eb90-7774-46aa-b0db-0ac8df78dad3.png)
 4.Array value of Y
