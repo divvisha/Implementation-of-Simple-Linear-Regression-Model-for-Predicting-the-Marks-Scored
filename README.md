@@ -96,8 +96,7 @@ print('Values of MSE')
 
 ## Output:
 
-df.head():
-<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
+df.head():<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
 
 df.tail():
 <img width="262" alt="df tail" src="https://user-images.githubusercontent.com/127508123/229510313-85972f36-cc26-42a8-8081-4162ce113514.png">
