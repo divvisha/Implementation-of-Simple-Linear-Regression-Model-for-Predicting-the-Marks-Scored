@@ -96,12 +96,15 @@ print('Values of MSE')
 
 ## Output:
 
-df.head():<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
+df.head():
+
+\n<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
 
 df.tail():
-<img width="262" alt="df tail" src="https://user-images.githubusercontent.com/127508123/229510313-85972f36-cc26-42a8-8081-4162ce113514.png">
+\n<img width="262" alt="df tail" src="https://user-images.githubusercontent.com/127508123/229510313-85972f36-cc26-42a8-8081-4162ce113514.png">
 
 Array value of X:
+
 <img width="161" alt="x value arr" src="https://user-images.githubusercontent.com/127508123/229510514-675ad971-539b-4048-96aa-47059ced2bb8.png">
 
 Array value of Y:
