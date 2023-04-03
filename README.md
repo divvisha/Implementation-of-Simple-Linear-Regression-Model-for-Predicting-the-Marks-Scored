@@ -98,31 +98,38 @@ print('Values of MSE')
 
 df.head():
 
-\n<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
+<img width="219" alt="df head" src="https://user-images.githubusercontent.com/127508123/229509759-3889b858-eec3-4808-abd1-8eafe8adcd84.png">
 
 df.tail():
-\n<img width="262" alt="df tail" src="https://user-images.githubusercontent.com/127508123/229510313-85972f36-cc26-42a8-8081-4162ce113514.png">
+
+<img width="262" alt="df tail" src="https://user-images.githubusercontent.com/127508123/229510313-85972f36-cc26-42a8-8081-4162ce113514.png">
 
 Array value of X:
 
 <img width="161" alt="x value arr" src="https://user-images.githubusercontent.com/127508123/229510514-675ad971-539b-4048-96aa-47059ced2bb8.png">
 
 Array value of Y:
+
 <img width="551" alt="y value arr" src="https://user-images.githubusercontent.com/127508123/229510767-5a16f387-7468-477c-b099-229a9db9e342.png">
 
 Value of Y prediction:
+
 <img width="612" alt="y pred val" src="https://user-images.githubusercontent.com/127508123/229511116-3d5f0feb-87e3-4177-9731-cbe9932d5734.png">
 
 Array values of Y test:
+
 <img width="418" alt="y test" src="https://user-images.githubusercontent.com/127508123/229511212-f5aa1c8c-c7b9-4d2d-aa17-e26bc27cae2c.png">
 
 Training set Graph:
+
 <img width="394" alt="training set (2)" src="https://user-images.githubusercontent.com/127508123/229511588-e1e83889-812e-44b5-9d20-2175adddd420.png">
 
 Test set Graph:
+
 <img width="362" alt="test set (2)" src="https://user-images.githubusercontent.com/127508123/229511690-63b4b0df-640e-4c93-88ae-c44d702c7119.png">
 
 Values of MSE,MAE,RMSE:
+
 <img width="272" alt="mse,mae,rmse val" src="https://user-images.githubusercontent.com/127508123/229511894-7f4e81ba-9dd9-4bf3-acde-ff6292e2b8f8.png">
 
 
